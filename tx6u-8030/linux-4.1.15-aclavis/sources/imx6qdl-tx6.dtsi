@@ -297,6 +297,7 @@
 	pinctrl-0 = <&pinctrl_gpmi_nand>;
 	nand-on-flash-bbt;
 	fsl,no-blockmark-swap;
+	fsl,legacy-bch-geometry;
 	status = "disabled";
 };
 
