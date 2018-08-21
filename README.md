@@ -23,7 +23,7 @@ baseboards and kernel versions.
     - Branch: `linux-4.14.y`
     - Tag name: `4.14.24`
 
-    uImage Linux kernel images were created with the default settings
+    uImage Linux kernel images were created with the default settings      
     zImage Linux kernel images were created with appended KERNEL-FEATURE "debian"
 
 - U-Boot
